@@ -4,7 +4,7 @@
   "description": "MCP server for Movoice AI — create and manage voice AI agents directly from Claude or Cursor",
   "type": "module",
   "bin": {
-    "movoice-mcp": "./dist/index.js"
+    "movoice-mcp": "dist/index.js"
   },
   "scripts": {
     "build": "tsc && chmod +x dist/index.js",
@@ -33,7 +33,7 @@
   "homepage": "https://github.com/Movoiceai/movoice-mcp#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Movoiceai/movoice-mcp.git"
+    "url": "git+https://github.com/Movoiceai/movoice-mcp.git"
   },
   "bugs": {
     "url": "https://github.com/Movoiceai/movoice-mcp/issues"
