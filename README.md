@@ -1,3 +1,10 @@
+> **This repository is archived. The Movoice MCP server is now [`@movoice-ai/mcp`](https://www.npmjs.com/package/@movoice-ai/mcp).**
+>
+> - How to connect Claude, Cursor and other AI tools: https://docs.movoice.ai
+> - Your API keys: https://app.movoice.ai/admin/developer
+>
+> The old `@movoice/mcp` 1.0.0 below is no longer updated.
+
 # Movoice AI MCP Server
 
 [![npm version](https://img.shields.io/npm/v/@movoice/mcp)](https://www.npmjs.com/package/@movoice/mcp)
